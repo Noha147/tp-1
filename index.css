@@ -1,0 +1,5 @@
+.team-member card-effect>img{
+    width: 260px;
+    height: 260px;
+    border-radius: 50%
+}
